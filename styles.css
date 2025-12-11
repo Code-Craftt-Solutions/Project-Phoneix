@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    width: 100%;   /* This is the bug → will be fixed in hotfix branch */
+    width: 100%;   
     background-color: #f5f5f5;
     padding: 20px;
     margin-top: 20px;
